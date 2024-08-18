@@ -1,4 +1,4 @@
-# MyPaddy
+# MyPaddy Calculator
 
 Check out this simple program for managing and calculating paddy sales for CPT113 Assignment 1!
 
