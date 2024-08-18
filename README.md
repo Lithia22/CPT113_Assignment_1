@@ -19,7 +19,7 @@ Check out this C++ program for managing and calculating paddy sales for CPT113 A
 1. **Download the repository:**
 
    ```bash
-   git clone https://github.com/Lithia22/MyPaddy.git
+   git clone https://github.com/Lithia22/CPT113_Assignment_1.git
 
 2. **Open Dev-C++:**
    - Launch Dev-C++ on your computer.
