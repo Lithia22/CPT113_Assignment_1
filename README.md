@@ -38,25 +38,25 @@ Check out this C++ program for managing and calculating paddy sales for CPT113 A
 1. **Input Paddy Base Information:**
    When the user selects option 1, the program prompts for paddy base information.
    
-   
+   <img width="481" alt="Screenshot 2024-08-19 at 2 46 02 AM" src="https://github.com/user-attachments/assets/6f5547c4-ba93-45a3-9b40-dd49a90ce3a0">
 
 2. **Input Paddy Sale Information:**
    When the user selects option 2, the program prompts for paddy sale information.
    
-   
+   <img width="481" alt="Screenshot 2024-08-19 at 2 46 25 AM" src="https://github.com/user-attachments/assets/190d386b-0bab-48cb-bfea-3f33f7a46464">
 
 3. **Display Paddy Sale Information:**
    When the user selects option 3, the program displays the entered paddy sale information and calculated income.
    
-   
+   <img width="481" alt="Screenshot 2024-08-19 at 2 46 40 AM" src="https://github.com/user-attachments/assets/e2ba5a8b-0b7f-4d1e-a4a9-c765132b6c4e">
 
 4. **Display Farmers by Productivity:**
    When the user selects option 4, the program lists farmers based on productivity.
    
-   
+   <img width="481" alt="Screenshot 2024-08-19 at 2 46 58 AM" src="https://github.com/user-attachments/assets/0a4b0c7e-2c86-4508-9721-1b7d876bd211">
 
 5. **Exit Program:**
    When the user selects option 5, the program exits.
    
-   
+   <img width="481" alt="Screenshot 2024-08-19 at 2 51 25 AM" src="https://github.com/user-attachments/assets/3586a110-cfb2-41c7-aab6-18e692de3c0c">
 
