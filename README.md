@@ -9,6 +9,10 @@ Check out this C++ program for managing and calculating paddy sales for CPT113 A
 - Inputs base and sale information.
 - Calculates and displays income based on sales.
 - Classifies farmers by productivity.
+
+## Prerequisites
+
+- **Dev-C++ IDE:** Download and install Dev-C++ from [Dev-C++ official website](https://www.bloodshed.net/devcpp.html).
   
 ## How To Run
 
