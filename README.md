@@ -25,8 +25,8 @@ Check out this C++ program for managing and calculating paddy sales for CPT113 A
    - Launch Dev-C++ on your computer.
 
 3. **Open the project:**
-   - Go to File > Open Project/File...
-   - Navigate to the MyPaddy folder you downloaded.
+   - Go to File > Open Project/File.
+   - Navigate to the CPT113_Assignment_1 folder you downloaded.
    - Select `MyPaddy.cpp` file, and open it.
 
 4. **Compile the program:**
