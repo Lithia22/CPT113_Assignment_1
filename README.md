@@ -32,3 +32,31 @@ Check out this C++ program for managing and calculating paddy sales for CPT113 A
 4. **Compile the program:**
    - Go to Execute > Compile & Run or press F9.
    - Dev-C++ will compile the code and run the application.
+
+## Sample Output
+
+1. **Input Paddy Base Information:**
+   When the user selects option 1, the program prompts for paddy base information.
+   
+   
+
+2. **Input Paddy Sale Information:**
+   When the user selects option 2, the program prompts for paddy sale information.
+   
+   
+
+3. **Display Paddy Sale Information:**
+   When the user selects option 3, the program displays the entered paddy sale information and calculated income.
+   
+   
+
+4. **Display Farmers by Productivity:**
+   When the user selects option 4, the program lists farmers based on productivity.
+   
+   
+
+5. **Exit Program:**
+   When the user selects option 5, the program exits.
+   
+   
+
